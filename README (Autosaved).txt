@@ -1,0 +1,1 @@
+Welcome to my shared documents. I'm trying out a document sharing system called SparkleShare, which syncs through Git repositories. For convenience, I'm using 
