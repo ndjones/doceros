@@ -1,11 +1,5 @@
-Congratulations, you've successfully created a SparkleShare repository!
+Welcome to my shared documents. I'm trying out a document sharing system called SparkleShare, which syncs through Git repositories. For convenience, I'm using GitHub! If this looks old, either I've shifted to a private repo, my own repo, or .. I'm just not using this any more.
 
-Any files you add or change in this folder will be automatically synced to 
-ssh://git@github.com/ndjones/doceros and everyone connected to it.
-
-SparkleShare is a Free and Open Source software program that helps people 
-collaborate and share files. If you like what we do, please consider a small 
-donation to support the project: http://sparkleshare.org/support-us/
-
-Have fun! :)
-
+SparkleShare
+------------
+http://sparkleshare.org/
